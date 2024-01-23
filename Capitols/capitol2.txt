@@ -1,4 +1,4 @@
-Capítol 1: Introducció a Git
-Capítol 2: Flux de treball bàsic
-Capítol 3: Gestió de branques
-Capítol 4: Repositoris remots
+El flux de treball bàsic amb Git consisteix en: 
+1- Fer els canvis en la zona de treball.
+2- Afegir els canvis a la zona d’intercanvi temporal. 
+3- Fer un commit dels canvis.
